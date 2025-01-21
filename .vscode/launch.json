@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.cc.java.App",
+            "projectName": "03a_Vererbung_Inheritance_dcde32b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch It!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
